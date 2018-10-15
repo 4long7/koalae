@@ -1,0 +1,79 @@
+
+section article h4 p,section aside h4 p{ 
+    background-color: rgb(5, 46, 78);
+    width:70%;  
+    color:#fff; 
+    text-align:center; 
+    box-shadow: #999 4px 5px 1px;
+    height: 25px;
+    line-height: 25px;
+    margin-left:10px;
+}
+.bloglist{
+	width:95%;
+	overflow:hidden;
+	background: #fff;
+	border:1px solid #eeeeee;
+	border-radius:2px;
+	padding: 10px;
+	margin-bottom: 20px;
+	
+}
+.bloglist * {width: 92%;}
+.bloglist p {margin-bottom: 15px;}
+.bloglist li{
+	font-size: 13px;
+	width:75px;
+	display: inline-block;
+	padding: 5px;
+	margin-bottom: 10px;
+}
+.bloglist li a{
+	padding: 5px;
+	border-radius: 5px;
+	color: #fff;
+}
+.bloglist a:hover{
+	opacity: 0.5;
+}
+.content{word-wrap:break-word;}
+
+/*lable*/
+.other {background:red;}
+.javascript {background:#1DABB8;}
+.nginx {background:#FF69B4;}
+.ubuntu {background:#9ACD32;}
+.css {background:#FFA500;}
+.node {background:#191970;}
+.html {background:#2F4F4F;}
+.mysql {background:#B0C4DE;}
+.markdown {background:#FFFF00;}
+/*end*/
+
+.button-ly textarea{
+  width: 98%;
+  height:90px;
+
+}
+.button-ly input{
+  height:30px;
+  margin-bottom: 10px;
+}
+.liuyan img{
+	width: 30px;
+    height:25px;
+    border-radius: 100px;
+    float: left;
+    margin-left:-40px;
+    box-sizing: border-box;
+}
+.liuyan{
+	background: #fff;
+	padding-left: 40px;
+	margin-bottom: 10px;
+	width: 90%;
+	box-shadow: #ccc 1px 1px 1px
+}
+.liuyan  *{
+	margin-bottom: 10px;	
+}

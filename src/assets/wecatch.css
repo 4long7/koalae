@@ -1,0 +1,118 @@
+ #mddd{
+    background: #fff;
+    border:1px solid #eee;
+    width: 100%;
+    margin: auto;
+    padding:20px;
+    box-sizing: border-box;
+  }
+#mddd * {
+  color: #555;
+  // font-family: -apple-system-font, 'Helvetica Neue', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif;
+
+}
+  
+#mddd p{
+  letter-spacing: 1px !important;
+  line-height: 28px !important;
+  min-height: 1em !important;
+  box-sizing: border-box !important;
+  word-wrap: break-word !important;
+  text-align: left;
+  margin: 20px 0px !important;
+}
+
+#mddd blockquote {
+    border-left: 4px solid #1DABB8;
+    padding: 0 15px !important;
+    color: #777777;
+    margin: 0px;
+}
+
+#mddd blockquote p {
+  color: #898989;
+  margin: 0px;
+}
+
+#mddd strong {
+    font-weight: normal;
+    color: #bf360c;
+}
+
+#mddd body {
+  font-size: 17px;
+  padding: 0 30px;
+}
+
+#mddd pre {
+  background-color: #f8f8f8;
+  border-radius: 3px;
+  word-wrap: break-word;
+  padding: 10px 11px;
+  font-size: 15px;
+  color: #898989;
+}
+
+#mddd h1,#mddd h2,#mddd h3,#mddd h4,#mddd h5,#mddd h6 {
+    word-break: break-all !important;
+    margin: 20px 0;
+    line-height: 1.2;
+    text-align: left;
+    font-weight: bold;
+    // padding-left: 15px;
+}
+
+#mddd h1 {
+    // border-left: 6px solid #71BA51 !important;
+    font-size: 30px !important;
+}
+
+#mddd h2 {
+    // border-left: 4px solid #71BA51 !important;
+    font-size: 18px !important;
+}
+
+#mddd h3 {
+    font-size: 16px;
+  // border-left: 4px solid #71BA51 !important;
+}
+
+#mddd h4 {
+  font-size: 15px;
+  // border-left: 2px solid #71BA51 !important; 
+}
+
+#mddd a {
+  color: #4183C4 !important;
+  text-decoration: none !important;
+}
+
+#mddd ul, #mddd ol {
+  padding-left: 30px;
+}
+
+#mddd li {
+  line-height: 24px;
+}
+
+#mddd hr {
+    height: 4px;
+    padding: 0;
+    margin: 16px 0;
+    background-color: #e7e7e7;
+    border: 0 none;
+    overflow: hidden;
+    box-sizing: content-box;
+    border-bottom: 1px solid #ddd;
+}
+
+#mddd pre {
+ background: #f2f2f2 !important;
+ padding: 12px 13px;
+ overflow: auto;
+}
+
+#mddd code {
+  color: #a71d5d;
+  overflow: auto;
+}
