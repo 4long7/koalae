@@ -28,8 +28,8 @@ export default new Router({
       name: 'about',
       component: require('../components/about.vue')
     }, {
-      path: '/lable',
-      name: 'lable',
+      path: '/label',
+      name: 'label',
       component: require('../components/Type.vue')
     }
   ]

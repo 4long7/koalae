@@ -24,13 +24,13 @@
     </div>
   <p v-on:click="incrementTotal" class="page">点击更多</p> 
   </article>
-  <VLable></VLable>  
+  <VLabel></VLabel>  
 </section>
 
 </template>
 <script>
 import axios from 'axios'
-import VLable from './lable.vue'
+import VLabel from './label.vue'
 export default {
   name: 'mains',
   data () {

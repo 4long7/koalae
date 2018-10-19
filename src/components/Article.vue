@@ -31,12 +31,12 @@
 			</ul>
 		</form>
 	</article>
-	<VLable></VLable>
+	<VLabel></VLabel>
 	</section>
 </div>
 </template>
 <script>
-import VLable from './lable.vue'
+import VLabel from './label.vue'
 export default {
   name: 'Article',
  data () {
